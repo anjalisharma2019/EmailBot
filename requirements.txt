@@ -1,0 +1,4 @@
+# EmailBot dependencies
+# Install with: pip install -r requirements.txt
+
+python-dotenv>=1.0.0
